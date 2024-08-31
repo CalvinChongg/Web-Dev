@@ -1,0 +1,1 @@
+This is just random things im making in web dev langs like HTML, CSS and JS specifically.
