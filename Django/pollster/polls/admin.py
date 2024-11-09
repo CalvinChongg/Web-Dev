@@ -2,6 +2,10 @@ from django.contrib import admin
 
 # Register your models here.
 
+admin.site.site_header = "Pollster Admin"
+admin.site.site_title = "Pollster Admin Area"
+admin.site.index_title = "Welcome to Pollster Admin Area"
+
 from .models import Question, Choice
 
 # admin.site.register(Question)
